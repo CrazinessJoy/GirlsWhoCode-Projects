@@ -1,4 +1,5 @@
 # GirlsWhoCode-Projects
 GirlsWhoCode Projects
 # hm hmm
-****bold****
+**bold**
+_italics_
