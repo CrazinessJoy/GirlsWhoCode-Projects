@@ -1,0 +1,13 @@
+body{
+    background-color: lavender;
+    font-family:cursive;
+}
+/* Home PAGE HEADERS */
+/* Ctrl + / to make comments */
+.introduction h1{
+    color:blueviolet;
+}
+
+.next h1{
+    color:purple;
+}
